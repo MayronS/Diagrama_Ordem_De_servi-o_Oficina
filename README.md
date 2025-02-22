@@ -46,3 +46,7 @@ Para calcular o valor da mão de obra, é verificado em uma tabela de referênci
 Também é verificado os valores das peças necessárias para o conserto ou manutenção do veículo.
 
 Por último o cliente analisa a ordem de serviço e autoriza.
+
+##
+
+Projeto proposto como exercicio no bootcamp Heineken - Inteligência Artificial Aplicada a Dados com Copilot fornecido pela DIO.
